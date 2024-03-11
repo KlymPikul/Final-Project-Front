@@ -1,0 +1,24 @@
+body {
+    background-size: cover;
+    background-image: url('https://www.museum-ludwig.de/typo3temp/_processed_/csm_irene_ludwig_teaser_6f741aee97.jpg');
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.card {
+    background-color: rgba(11, 8, 4, 0.61);
+    width: 400px;
+    border-radius: 10px;
+    color: white;
+    padding: 0 25px 5px 25px;
+}
+
+.card img {
+    width: 300px;
+    border-radius: 5px;
+}
