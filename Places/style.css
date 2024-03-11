@@ -10,6 +10,10 @@ body {
     margin-top: 40px;
 }
 
+.main a {
+    color: white;
+}
+
 .card {
     background-color: rgba(11, 8, 4, 0.61);
     width: 400px;
